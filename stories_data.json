@@ -1,0 +1,74 @@
+{
+    "trendingData": [
+        {
+            "title": "The Curious Monkey",
+            "ageGroup": "3-5 yrs",
+            "bannerUrl": "https://images.booksense.com/images/822/722/9781486722822.jpg",
+            "time": "5 mins",
+            "views": "1.2k",
+            "storyAssets": [
+                {
+                    "imageUrl": "https://www.eyecatchmedia.com/wp-content/uploads/2024/02/169-aspect-ratio.jpg",
+                    "audioUrl": "https://drive.google.com/uc?export=download&id=1RXF6Z3BGtr3LfgO7q8kfn76s6wbqboFu"
+                },
+                {
+                    "imageUrl": "https://www.eyecatchmedia.com/wp-content/uploads/2024/01/ratios.jpeg",
+                    "audioUrl": "https://drive.google.com/uc?export=download&id=1RXF6Z3BGtr3LfgO7q8kfn76s6wbqboFu"
+                }
+            ]
+        },
+        {
+            "title": "The Brave Little Ant",
+            "ageGroup": "6-8 yrs",
+            "bannerUrl": "https://images.btol.com/ContentCafe/Jacket.aspx?NotFound=E&Size=L&Value=1499809689&UserID=WB46190&Password=CC84087",
+            "time": "7 mins",
+            "views": "900",
+            "storyAssets": [
+                {
+                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXlCSuZOItgXw_hmq0Dik01aEVK-ng12ocbA&s",
+                    "audioUrl": "https://drive.google.com/uc?export=download&id=1RXF6Z3BGtr3LfgO7q8kfn76s6wbqboFu"
+                },
+                {
+                    "imageUrl": "https://via.placeholder.com/150/0000FF/808080?Text=CleverCrow",
+                    "audioUrl": "https://drive.google.com/uc?export=download&id=1RXF6Z3BGtr3LfgO7q8kfn76s6wbqboFu"
+                }
+            ]
+        }
+    ],
+    "latestData": [
+        {
+            "title": "The Magical Forest",
+            "ageGroup": "5-7 yrs",
+            "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXlCSuZOItgXw_hmq0Dik01aEVK-ng12ocbA&s",
+            "time": "10 mins",
+            "views": "1.5k",
+            "storyAssets": [
+                {
+                    "imageUrl": "https://www.eyecatchmedia.com/wp-content/uploads/2024/02/169-aspect-ratio.jpg",
+                    "audioUrl": "https://drive.google.com/uc?export=download&id=1RXF6Z3BGtr3LfgO7q8kfn76s6wbqboFu"
+                },
+                {
+                    "imageUrl": "https://www.eyecatchmedia.com/wp-content/uploads/2024/01/ratios.jpeg",
+                    "audioUrl": "https://drive.google.com/uc?export=download&id=1RXF6Z3BGtr3LfgO7q8kfn76s6wbqboFu"
+                }
+            ]
+        },
+        {
+            "title": "The Clever Crow",
+            "ageGroup": "4-6 yrs",
+            "bannerUrl": "https://via.placeholder.com/150/0000FF/808080?Text=CleverCrow",
+            "time": "6 mins",
+            "views": "1.1k",
+            "storyAssets": [
+                {
+                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXlCSuZOItgXw_hmq0Dik01aEVK-ng12ocbA&s",
+                    "audioUrl": "https://drive.google.com/uc?export=download&id=1RXF6Z3BGtr3LfgO7q8kfn76s6wbqboFu"
+                },
+                {
+                    "imageUrl": "https://via.placeholder.com/150/0000FF/808080?Text=CleverCrow",
+                    "audioUrl": "https://drive.google.com/uc?export=download&id=1RXF6Z3BGtr3LfgO7q8kfn76s6wbqboFu"
+                }
+            ]
+        }
+    ]
+}
