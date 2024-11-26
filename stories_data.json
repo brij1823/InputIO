@@ -9,35 +9,43 @@
             "storyAssets": [
                 {
                     "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/1.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/1.mp3"
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/1.mp3",
+                    "caption": "Did you know Hanuman once flew across the sky to save Lakshman? Here’s the amazing story!"
                 },
                 {
                     "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/3.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/2.mp3"
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/2.mp3",
+                    "caption": "Lakshman, Lord Ram’s brother, was badly hurt in a battle and fell unconscious."
                 },
                 {
                     "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/4.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/3.mp3"
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/3.mp3",
+                    "caption": "Only a magical herb called Sanjeevani could save him, but it was far away on a mountain in the Himalayas!"
                 },
                 {
                     "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/5.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/4.mp3"
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/4.mp3",
+                    "caption": "Hanuman jumped into the sky, flying faster than the wind to find the herb."
                 },
                 {
                     "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/6.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/5.mp3"
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/5.mp3",
+                    "caption": "When he reached the mountain, there were so many herbs, he couldn’t tell which one was Sanjeevani!"
                 },
                 {
                     "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/7.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/6.mp3"
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/6.mp3",
+                    "caption": "Thinking quickly, Hanuman grew as big as a giant, lifted the entire mountain, and flew back!"
                 },
                 {
                     "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/8.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/10.mp3"
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/10.mp3",
+                    "caption": "The healer used the herb to save Lakshman, and everyone was overjoyed!"
                 },
                 {
                     "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/9.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/7.mp3"
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/7.mp3",
+                    "caption": "Like Hanuman, we should be brave and help others. Kindness and courage make us true heroes!"
                 }
             ]
         },
@@ -50,39 +58,23 @@
             "storyAssets": [
                 {
                     "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/1.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/1.mp3"
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/1.mp3",
+                    "caption": "Ants may be small, but they teach us the value of teamwork and determination."
                 },
                 {
                     "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/2.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/2.mp3"
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/2.mp3",
+                    "caption": "One little ant faced a big challenge but stayed brave and clever."
                 },
                 {
                     "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/3.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/3.mp3"
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/3.mp3",
+                    "caption": "Using teamwork, the ants solved a tough problem together!"
                 },
                 {
                     "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/4.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/4.mp3"
-                },
-                {
-                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/5.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/5.mp3"
-                },
-                {
-                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/6.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/6.mp3"
-                },
-                {
-                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/7.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/7.mp3"
-                },
-                {
-                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/8.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/8.mp3"
-                },
-                {
-                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/9.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/9.mp3"
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/4.mp3",
+                    "caption": "This story reminds us that even the smallest effort can lead to big success!"
                 }
             ]
         }
@@ -97,39 +89,18 @@
             "storyAssets": [
                 {
                     "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/1.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/1.mp3"
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/1.mp3",
+                    "caption": "Deep in the magical forest, strange and exciting adventures await!"
                 },
                 {
                     "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/2.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/2.mp3"
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/2.mp3",
+                    "caption": "Meet brave heroes and curious animals as they explore the unknown."
                 },
                 {
                     "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/3.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/3.mp3"
-                },
-                {
-                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/4.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/4.mp3"
-                },
-                {
-                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/5.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/5.mp3"
-                },
-                {
-                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/6.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/6.mp3"
-                },
-                {
-                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/7.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/7.mp3"
-                },
-                {
-                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/8.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/8.mp3"
-                },
-                {
-                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/9.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/9.mp3"
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/3.mp3",
+                    "caption": "Will they solve the mysteries hidden in the forest?"
                 }
             ]
         },
@@ -142,39 +113,18 @@
             "storyAssets": [
                 {
                     "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/1.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/1.mp3"
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/1.mp3",
+                    "caption": "The clever crow was thirsty and found a jar of water, but it was too low to drink!"
                 },
                 {
                     "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/2.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/2.mp3"
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/2.mp3",
+                    "caption": "Using stones, the crow made the water rise to the top."
                 },
                 {
                     "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/3.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/3.mp3"
-                },
-                {
-                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/4.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/4.mp3"
-                },
-                {
-                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/5.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/5.mp3"
-                },
-                {
-                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/6.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/6.mp3"
-                },
-                {
-                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/7.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/7.mp3"
-                },
-                {
-                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/8.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/8.mp3"
-                },
-                {
-                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/9.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/9.mp3"
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/3.mp3",
+                    "caption": "This story shows us how being smart and resourceful can solve problems!"
                 }
             ]
         }
