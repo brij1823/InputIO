@@ -8,12 +8,40 @@
             "views": "1.2k",
             "storyAssets": [
                 {
-                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/test.mp4",
+                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/1.mp4",
                     "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/1.mp3"
                 },
                 {
-                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/test.mp4",
-                    "audioUrl": "https://drive.google.com/uc?export=download&id=1RXF6Z3BGtr3LfgO7q8kfn76s6wbqboFu"
+                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/2.mp4",
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/2.mp3"
+                },
+                {
+                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/3.mp4",
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/3.mp3"
+                },
+                {
+                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/4.mp4",
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/4.mp3"
+                },
+                {
+                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/5.mp4",
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/5.mp3"
+                },
+                {
+                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/6.mp4",
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/6.mp3"
+                },
+                {
+                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/7.mp4",
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/7.mp3"
+                },
+                {
+                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/8.mp4",
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/8.mp3"
+                },
+                {
+                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/9.mp4",
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/9.mp3"
                 }
             ]
         },
@@ -25,12 +53,40 @@
             "views": "900",
             "storyAssets": [
                 {
-                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXlCSuZOItgXw_hmq0Dik01aEVK-ng12ocbA&s",
-                    "audioUrl": "https://drive.google.com/uc?export=download&id=1RXF6Z3BGtr3LfgO7q8kfn76s6wbqboFu"
+                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/1.mp4",
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/1.mp3"
                 },
                 {
-                    "imageUrl": "https://via.placeholder.com/150/0000FF/808080?Text=CleverCrow",
-                    "audioUrl": "https://drive.google.com/uc?export=download&id=1RXF6Z3BGtr3LfgO7q8kfn76s6wbqboFu"
+                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/2.mp4",
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/2.mp3"
+                },
+                {
+                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/3.mp4",
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/3.mp3"
+                },
+                {
+                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/4.mp4",
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/4.mp3"
+                },
+                {
+                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/5.mp4",
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/5.mp3"
+                },
+                {
+                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/6.mp4",
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/6.mp3"
+                },
+                {
+                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/7.mp4",
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/7.mp3"
+                },
+                {
+                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/8.mp4",
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/8.mp3"
+                },
+                {
+                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/9.mp4",
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/9.mp3"
                 }
             ]
         }
@@ -44,12 +100,40 @@
             "views": "1.5k",
             "storyAssets": [
                 {
-                    "imageUrl": "https://www.eyecatchmedia.com/wp-content/uploads/2024/02/169-aspect-ratio.jpg",
-                    "audioUrl": "https://drive.google.com/uc?export=download&id=1RXF6Z3BGtr3LfgO7q8kfn76s6wbqboFu"
+                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/1.mp4",
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/1.mp3"
                 },
                 {
-                    "imageUrl": "https://www.eyecatchmedia.com/wp-content/uploads/2024/01/ratios.jpeg",
-                    "audioUrl": "https://drive.google.com/uc?export=download&id=1RXF6Z3BGtr3LfgO7q8kfn76s6wbqboFu"
+                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/2.mp4",
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/2.mp3"
+                },
+                {
+                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/3.mp4",
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/3.mp3"
+                },
+                {
+                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/4.mp4",
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/4.mp3"
+                },
+                {
+                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/5.mp4",
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/5.mp3"
+                },
+                {
+                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/6.mp4",
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/6.mp3"
+                },
+                {
+                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/7.mp4",
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/7.mp3"
+                },
+                {
+                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/8.mp4",
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/8.mp3"
+                },
+                {
+                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/9.mp4",
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/9.mp3"
                 }
             ]
         },
@@ -61,12 +145,40 @@
             "views": "1.1k",
             "storyAssets": [
                 {
-                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXlCSuZOItgXw_hmq0Dik01aEVK-ng12ocbA&s",
-                    "audioUrl": "https://drive.google.com/uc?export=download&id=1RXF6Z3BGtr3LfgO7q8kfn76s6wbqboFu"
+                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/1.mp4",
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/1.mp3"
                 },
                 {
-                    "imageUrl": "https://via.placeholder.com/150/0000FF/808080?Text=CleverCrow",
-                    "audioUrl": "https://drive.google.com/uc?export=download&id=1RXF6Z3BGtr3LfgO7q8kfn76s6wbqboFu"
+                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/2.mp4",
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/2.mp3"
+                },
+                {
+                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/3.mp4",
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/3.mp3"
+                },
+                {
+                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/4.mp4",
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/4.mp3"
+                },
+                {
+                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/5.mp4",
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/5.mp3"
+                },
+                {
+                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/6.mp4",
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/6.mp3"
+                },
+                {
+                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/7.mp4",
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/7.mp3"
+                },
+                {
+                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/8.mp4",
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/8.mp3"
+                },
+                {
+                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/9.mp4",
+                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/9.mp3"
                 }
             ]
         }
