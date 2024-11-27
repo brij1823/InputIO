@@ -49,35 +49,80 @@
                 }
             ]
         },
+       {
+    "title": "The Brave Little Ant",
+    "ageGroup": "6-8 yrs",
+    "bannerUrl": "https://images.btol.com/ContentCafe/Jacket.aspx?NotFound=E&Size=L&Value=1499809689&UserID=WB46190&Password=CC84087",
+    "time": "7 mins",
+    "views": "900",
+    "storyAssets": [
         {
-            "title": "The Brave Little Ant",
-            "ageGroup": "6-8 yrs",
-            "bannerUrl": "https://images.btol.com/ContentCafe/Jacket.aspx?NotFound=E&Size=L&Value=1499809689&UserID=WB46190&Password=CC84087",
-            "time": "7 mins",
-            "views": "900",
-            "storyAssets": [
-                {
-                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/1.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/1.mp3",
-                    "caption": "Ants may be small, but they teach us the value of teamwork and determination."
-                },
-                {
-                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/2.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/2.mp3",
-                    "caption": "One little ant faced a big challenge but stayed brave and clever."
-                },
-                {
-                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/3.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/3.mp3",
-                    "caption": "Using teamwork, the ants solved a tough problem together!"
-                },
-                {
-                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/4.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/4.mp3",
-                    "caption": "This story reminds us that even the smallest effort can lead to big success!"
-                }
-            ]
+            "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/2_Shiva_Halal/VIdeo/1.mp4",
+            "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/2_Shiva_Halal/Audio/1.mp3",
+            "caption": "Long ago, the mighty gods and demons churned the ocean together."
+        },
+        {
+            "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/2_Shiva_Halal/VIdeo/2.mp4",
+            "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/2_Shiva_Halal/Audio/2.mp3",
+            "caption": "They used a huge mountain as the stick for ocean churning."
+        },
+        {
+            "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/2_Shiva_Halal/VIdeo/3.mp4",
+            "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/2_Shiva_Halal/Audio/3.mp3",
+            "caption": "A powerful giant snake was used as the rope for this task."
+        },
+        {
+            "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/2_Shiva_Halal/VIdeo/4.mp4",
+            "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/2_Shiva_Halal/Audio/4.mp3",
+            "caption": "At first, beautiful treasures like gold and jewels appeared magically."
+        },
+        {
+            "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/2_Shiva_Halal/VIdeo/5.mp4",
+            "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/2_Shiva_Halal/Audio/5.mp3",
+            "caption": "Then a deadly black poison called Halahala emerged suddenly, terrifying everyone."
+        },
+        {
+            "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/2_Shiva_Halal/VIdeo/6.mp4",
+            "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/2_Shiva_Halal/Audio/6.mp3",
+            "caption": "Its dangerous toxic fumes spread, choking and terrifying everyone nearby."
+        },
+        {
+            "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/2_Shiva_Halal/VIdeo/7.mp4",
+            "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/2_Shiva_Halal/Audio/7.mp3",
+            "caption": "The desperate gods and demons quickly ran to Lord Shiva for help."
+        },
+        {
+            "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/2_Shiva_Halal/VIdeo/8.mp4",
+            "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/2_Shiva_Halal/Audio/8.mp3",
+            "caption": "Shiva calmly assured them that he alone would save the world."
+        },
+        {
+            "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/2_Shiva_Halal/VIdeo/9.mp4",
+            "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/2_Shiva_Halal/Audio/9.mp3",
+            "caption": "He bravely drank the poison but carefully kept it in his throat."
+        },
+        {
+            "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/2_Shiva_Halal/VIdeo/10.mp4",
+            "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/2_Shiva_Halal/Audio/10.mp3",
+            "caption": "The deadly poison turned his throat blue but caused him no harm."
+        },
+        {
+            "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/2_Shiva_Halal/VIdeo/11.mp4",
+            "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/2_Shiva_Halal/Audio/11.mp3",
+            "caption": "Everyone celebrated and praised Shiva for his courage and kindness."
+        },
+        {
+            "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/2_Shiva_Halal/VIdeo/12.mp4",
+            "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/2_Shiva_Halal/Audio/12.mp3",
+            "caption": "Shiva was then given the special name Neelkanth for his bravery."
+        },
+        {
+            "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/2_Shiva_Halal/VIdeo/13.mp4",
+            "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/2_Shiva_Halal/Audio/13.mp3",
+            "caption": "Shiva’s great selflessness and bravery protected all life on earth."
         }
+    ]
+}
     ],
     "latestData": [
         {
