@@ -205,29 +205,85 @@
         ]
     },
 
+       {
+    "title": "Ganesh and Vyasa",
+    "ageGroup": "5-7 yrs",
+    "bannerUrl": "https://d3v63b5drlpxsq.cloudfront.net/4_Ganesh_Mahabharat/Audio/1.mp3",
+    "time": "10 mins",
+    "views": "1.5k",
+    "storyAssets": [
         {
-            "title": "The Clever Crow",
-            "ageGroup": "4-6 yrs",
-            "bannerUrl": "https://via.placeholder.com/150/0000FF/808080?Text=CleverCrow",
-            "time": "6 mins",
-            "views": "1.1k",
-            "storyAssets": [
-                {
-                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/1.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/1.mp3",
-                    "caption": "The clever crow was thirsty and found a jar of water, but it was too low to drink!"
-                },
-                {
-                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/2.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/2.mp3",
-                    "caption": "Using stones, the crow made the water rise to the top."
-                },
-                {
-                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/3.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/3.mp3",
-                    "caption": "This story shows us how being smart and resourceful can solve problems!"
-                }
-            ]
+            "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/4_Ganesh_Mahabharat/Video/1.mp4",
+            "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/4_Ganesh_Mahabharat/Audio/1.mp3",
+            "caption": "A long time ago, a wise sage named Vyasa wanted to write a very big book."
+        },
+        {
+            "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/4_Ganesh_Mahabharat/Video/2.mp4",
+            "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/4_Ganesh_Mahabharat/Audio/2.mp3",
+            "caption": "This book was called the Mahabharata, and it was full of amazing stories."
+        },
+        {
+            "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/4_Ganesh_Mahabharat/Video/3.mp4",
+            "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/4_Ganesh_Mahabharat/Audio/3.mp3",
+            "caption": "Sage Vyasa needed someone smart and quick to write down his words."
+        },
+        {
+            "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/4_Ganesh_Mahabharat/Video/4.mp4",
+            "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/4_Ganesh_Mahabharat/Audio/4.mp3",
+            "caption": "He prayed to Lord Ganesha, the god of wisdom, for his help."
+        },
+        {
+            "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/4_Ganesh_Mahabharat/Video/5.mp4",
+            "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/4_Ganesh_Mahabharat/Audio/5.mp3",
+            "caption": "Ganesha agreed but said Vyasa must speak without stopping, no breaks!"
+        },
+        {
+            "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/4_Ganesh_Mahabharat/Video/6.mp4",
+            "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/4_Ganesh_Mahabharat/Audio/6.mp3",
+            "caption": "Vyasa said Ganesha must understand every line before writing it down."
+        },
+        {
+            "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/4_Ganesh_Mahabharat/Video/7.mp4",
+            "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/4_Ganesh_Mahabharat/Audio/7.mp3",
+            "caption": "They both smiled and started working on the great Mahabharata together."
+        },
+        {
+            "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/4_Ganesh_Mahabharat/Video/8.mp4",
+            "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/4_Ganesh_Mahabharat/Audio/8.mp3",
+            "caption": "Ganesha wrote very fast, using his tusk when his pen broke suddenly."
+        },
+        {
+            "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/4_Ganesh_Mahabharat/Video/9.mp4",
+            "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/4_Ganesh_Mahabharat/Audio/9.mp3",
+            "caption": "He carefully listened to every word and wrote each line perfectly."
+        },
+        {
+            "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/4_Ganesh_Mahabharat/Video/10.mp4",
+            "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/4_Ganesh_Mahabharat/Audio/10.mp3",
+            "caption": "Vyasa sometimes made tricky verses to get time to think deeply."
+        },
+        {
+            "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/4_Ganesh_Mahabharat/Video/11.mp4",
+            "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/4_Ganesh_Mahabharat/Audio/11.mp3",
+            "caption": "Together, they finished the Mahabharata, a book full of wisdom and history."
+        },
+        {
+            "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/4_Ganesh_Mahabharat/Video/12.mp4",
+            "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/4_Ganesh_Mahabharat/Audio/12.mp3",
+            "caption": "Ganesha became known for his intelligence, patience, and love for learning."
+        },
+        {
+            "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/4_Ganesh_Mahabharat/Video/13.mp4",
+            "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/4_Ganesh_Mahabharat/Audio/13.mp3",
+            "caption": "This is why people pray to Ganesha for knowledge and success."
+        },
+        {
+            "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/4_Ganesh_Mahabharat/Video/14.mp4",
+            "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/4_Ganesh_Mahabharat/Audio/14.mp3",
+            "caption": "Hard work and teamwork can help us achieve amazing things."
         }
+    ]
+}
+
     ]
 }
