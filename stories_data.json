@@ -124,31 +124,87 @@
     ]
 }
     ],
-    "latestData": [
-        {
-            "title": "The Magical Forest",
-            "ageGroup": "5-7 yrs",
-            "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXlCSuZOItgXw_hmq0Dik01aEVK-ng12ocbA&s",
-            "time": "10 mins",
-            "views": "1.5k",
-            "storyAssets": [
-                {
-                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/1.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/1.mp3",
-                    "caption": "Deep in the magical forest, strange and exciting adventures await!"
-                },
-                {
-                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/2.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/2.mp3",
-                    "caption": "Meet brave heroes and curious animals as they explore the unknown."
-                },
-                {
-                    "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Video/3.mp4",
-                    "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/1_Hanuman/Audio/3.mp3",
-                    "caption": "Will they solve the mysteries hidden in the forest?"
-                }
-            ]
-        },
+        "latestData": [
+            {
+        "title": "Hiranyakashyap and Prahlad",
+        "ageGroup": "5-7 yrs",
+        "bannerUrl": "https://d3v63b5drlpxsq.cloudfront.net/3_Narsimha/3_Narsimha/banner_nar.png",
+        "time": "10 mins",
+        "views": "1.5k",
+        "storyAssets": [
+            {
+                "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/3_Narsimha/Video/1.mp4",
+                "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/3_Narsimha/Audio/1.mp3",
+                "caption": "A long time ago, there was a powerful demon king named Hiranyakashipu."
+            },
+            {
+                "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/3_Narsimha/Video/2.mp4",
+                "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/3_Narsimha/Audio/2.mp3",
+                "caption": "He thought he was invincible and wanted everyone to worship only him."
+            },
+            {
+                "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/3_Narsimha/Video/3.mp4",
+                "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/3_Narsimha/Audio/3.mp3",
+                "caption": "But his son, Prahlad, loved Lord Vishnu and refused to worship his father."
+            },
+            {
+                "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/3_Narsimha/Video/4.mp4",
+                "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/3_Narsimha/Audio/4.mp3",
+                "caption": "Hiranyakashipu was very angry and tried many ways to punish Prahlad."
+            },
+            {
+                "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/3_Narsimha/Video/5.mp4",
+                "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/3_Narsimha/Audio/5.mp3",
+                "caption": "No matter what he did, Lord Vishnu always protected Prahlad from harm."
+            },
+            {
+                "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/3_Narsimha/Video/6.mp4",
+                "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/3_Narsimha/Audio/6.mp3",
+                "caption": "One day, Hiranyakashipu asked Prahlad, 'Where is your Lord Vishnu now?'"
+            },
+            {
+                "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/3_Narsimha/Video/7.mp4",
+                "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/3_Narsimha/Audio/7.mp3",
+                "caption": "Prahlad smiled and said, 'He is everywhere, even in this pillar!'"
+            },
+            {
+                "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/3_Narsimha/Video/8.mp4",
+                "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/3_Narsimha/Audio/8.mp3",
+                "caption": "Hiranyakashipu struck the pillar with his mace in great anger."
+            },
+            {
+                "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/3_Narsimha/Video/9.mp4",
+                "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/3_Narsimha/Audio/9.mp3",
+                "caption": "Suddenly, Lord Vishnu appeared as Narasimha, half-man and half-lion!"
+            },
+            {
+                "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/3_Narsimha/Video/10.mp4",
+                "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/3_Narsimha/Audio/10.mp3",
+                "caption": "Narasimha was not human or animal, as the demon’s boon protected him."
+            },
+            {
+                "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/3_Narsimha/Video/11.mp4",
+                "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/3_Narsimha/Audio/11.mp3",
+                "caption": "With his sharp claws, Narasimha defeated Hiranyakashipu and saved Prahlad."
+            },
+            {
+                "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/3_Narsimha/Video/12.mp4",
+                "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/3_Narsimha/Audio/12.mp3",
+                "caption": "Afterward, Narasimha calmed down and blessed Prahlad for his devotion."
+            },
+            {
+                "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/3_Narsimha/Video/13.mp4",
+                "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/3_Narsimha/Audio/13.mp3",
+                "caption": "Prahlad continued to share love and devotion to Lord Vishnu with everyone."
+            },
+            {
+                "imageUrl": "https://d3v63b5drlpxsq.cloudfront.net/3_Narsimha/Video/14.mp4",
+                "audioUrl": "https://d3v63b5drlpxsq.cloudfront.net/3_Narsimha/Audio/14.mp3",
+                "caption": "This story teaches us that faith is powerful, and good always wins over evil."
+            }
+        ]
+    },
+
         {
             "title": "The Clever Crow",
             "ageGroup": "4-6 yrs",
